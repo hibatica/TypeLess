@@ -5,6 +5,7 @@ Typing the same command over and over? This is a collection of shell scripts to 
 
 # [Step 1]
 In the TypeLess folder, run:
+
 `chmod +x setup.sh`
 
 `./setup.sh`
